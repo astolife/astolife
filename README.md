@@ -1,3 +1,2 @@
 astolife
 ========
-ver1
